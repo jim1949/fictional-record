@@ -1,0 +1,2 @@
+qt_app
+-DCATKIN_DEVEL_PREFIX=/home/bintol01/month_11/20191127/qt_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bintol01/month_11/20191127/qt_ws/install -G Unix Makefiles
