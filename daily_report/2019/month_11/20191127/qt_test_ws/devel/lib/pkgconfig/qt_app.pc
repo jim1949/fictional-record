@@ -1,8 +1,0 @@
-prefix=/home/bintol01/month_11/20191127/qt_test_ws/devel
-
-Name: qt_app
-Description: Description of qt_app
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/bintol01/month_11/20191127/qt_test_ws/devel/lib 
-Requires: 
